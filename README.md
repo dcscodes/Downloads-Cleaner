@@ -1,0 +1,2 @@
+A simple automation script that can take a directory/folder and move many files of the same type to your trash/recycle bin.
+A beginner project for me that I will be adding onto as I become more familiar with the python language and start learning GUI in order to make it a full fledged app. Plan on allowing multiple file types to be chosen, as well as give the user the option to permanently delete the files instead of moving them to a trash bin.
